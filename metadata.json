@@ -1,0 +1,6 @@
+{
+  "name": "TEACHER DESK AI – TRỢ LÝ CÔNG VIỆC GIÁO VIÊN",
+  "description": "Trung tâm điều hành cá nhân cho giáo viên: quản lý kế hoạch dạy học, thời khóa biểu, báo giảng, KHBD, học liệu, ngân hàng câu hỏi, tạo đề, công việc và studio AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
